@@ -1,7 +1,8 @@
 # Вариант "Туры" Лизунова Ольга
 # Диаграмма базы данных:
-![image](https://github.com/olga0900/Tours_BD/raw/main/5c589b2/диаграмма1.png)
+![диаграмма1](https://github.com/olga0900/Tours_BD/assets/107050222/c72ad0c3-39cb-4d17-944c-940cde830888)
 # Диаграмма последовательности процесса авторизации:
+![диаграмма2](https://github.com/olga0900/Tours_BD/assets/107050222/756a23be-a41a-494f-a45e-d3074cd66c21)
 
 # SQL скрипт с данными для моделей:
 ```
